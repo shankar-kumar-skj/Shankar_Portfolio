@@ -1,0 +1,20 @@
+// vite.config.js
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
+
+// https://vitejs.dev/config/
+export default defineConfig({
+  plugins: [react()],
+  server: {
+    host: true,        // listen on all network interfaces (0.0.0.0)
+    port: 5173,        // optional, default port
+    proxy: {
+      // proxy all /api requests to backend during dev
+      "/api": {
+        target: "http://localhost:5000",
+        changeOrigin: true,
+        secure: false,
+      },
+    },
+  },
+});
