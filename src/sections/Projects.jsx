@@ -18,7 +18,7 @@ const projects = [
     tech: ['Java', 'MySQL', 'JSP/Servlets'],
     live: '#',
     repo: 'https://github.com/shankar-kumar-skj/Room_Allotment_System',
-    // video: '/videos/ROOM_ALLOTMENT_SYSTEM.mp4',
+    video: '/videos/ROOM_ALLOTMENT_SYSTEM.mp4',
   },
   {
   title: 'Machine Learning Projects',
@@ -34,7 +34,7 @@ const projects = [
   tech: ['Python', 'Scikit-learn', 'TensorFlow', 'XGBoost', 'Pandas', 'Matplotlib'],
   live: '#',
   repo: 'https://github.com/shankar-kumar-skj/30_DAYS_30_MACHINE_LEARNING_PROJECTS/tree/main',
-  // video: '/videos/WHATSAPP_CHAT_ANALYSIS.mp4',
+  video: '/videos/WHATSAPP_CHAT_ANALYSIS.mp4',
 }
 ,{
   title: 'Navastra',
@@ -49,7 +49,7 @@ const projects = [
   tech: ['Flutter', 'Dart', 'D3.js', 'Chart.js', 'Responsive Design'],
   live: '#',
   repo: '#',
-  // video: '/videos/Navastra.mp4',
+  video: '/videos/Navastra.mp4',
 }
 ]
 
