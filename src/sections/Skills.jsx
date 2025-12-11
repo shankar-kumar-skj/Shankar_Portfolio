@@ -6,10 +6,24 @@ const skillGroups = [
   {
     title: 'Programming Languages',
     items: [
-      { name: 'Java', percent: 70 },
       { name: 'Python', percent: 75 },
+      { name: 'Java', percent: 70 },
       { name: 'C++', percent: 60 },
       // { name: 'Power BI', percent: 75 },
+    ],
+  },
+  {
+    title: 'Python Libraries',
+    items: [
+      { name: 'Numpy', percent: 85 },
+      { name: 'Pandas', percent: 80 },
+      { name: 'Matplotlib', percent: 85 },
+      { name: 'Seaborn', percent: 75 },
+      { name: 'Scikit Learn', percent: 80 },
+      { name: 'TensorFlow', percent: 85 },
+      { name: 'Keras', percent: 80 },
+      { name: 'Streamlit', percent: 85 },
+      { name: 'Pydantic', percent: 80 },
     ],
   },
   {
@@ -25,11 +39,11 @@ const skillGroups = [
   {
     title: 'Programming & Tools',
     items: [
+      { name: 'Power Bi', percent: 85 },
       { name: 'Git', percent: 85 },
       { name: 'Docker', percent: 80 },
       { name: 'API Creation', percent: 80 },
       { name: 'Jupyter', percent: 70 },
-      { name: 'Python Libraries', percent: 85 },
     ],
   },
   {
@@ -44,10 +58,11 @@ const skillGroups = [
   {
     title: 'Machine Learning',
     items: [
-      { name: 'SUPERVISIED LEARNING', percent: 85 },
-      { name: 'UNSUPERVISIED LEARNING', percent: 80 },
-      { name: 'GEN AI', percent: 70 },
-      { name: 'Large Language Model (LLM) ', percent: 65 },
+      { name: 'SUPERVISIED LEARNING', percent: 90 },
+      { name: 'UNSUPERVISIED LEARNING', percent: 85 },
+      { name: 'GEN AI', percent: 75 },
+      { name: 'Large Language Model (LLM) ', percent: 70 },
+      { name: 'Natural Language Processing (NLP) ', percent: 65 },
       // { name: 'AWS S3', percent: 80 }
     ],
   },
