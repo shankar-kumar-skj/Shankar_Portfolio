@@ -35,7 +35,7 @@ export default function Hero({ profileImageUrl }) {
               Hi, I’m <span className="text-sky-600">Shankar Kumar</span>
             </h1>
             <p className="text-lg text-slate-700 mb-6">
-              Data Science Aspirant || ML Developer || AI & Analytics Explorer || LLM & Cloud Enthusiast
+              Data Science Aspirant | ML Developer | AI & Analytics Explorer | LLM & Cloud Enthusiast
             </p>
 
             <div className="flex flex-wrap gap-3 items-center">
