@@ -43,7 +43,7 @@ export default function About() {
                 <li><strong>Location:</strong> Jaipur, India</li>
                 <li><strong>Available for:</strong> Internships, Freelance, Real-world Projects</li>
                 <li><strong>Languages:</strong> English, Hindi</li>
-                <li><strong>Interests:</strong> Machine learning, AI-generated procedural design, and UI prototyping, Java Learner</li>
+                <li><strong>Interests:</strong> Machine learning, Large Language Models, Ai Agents, AI-generated procedural design, and UI prototyping, Java</li>
               </ul>
             </div>
           </motion.div>
