@@ -8,8 +8,7 @@ const skillGroups = [
     items: [
       { name: 'Python', percent: 75 },
       { name: 'Java', percent: 70 },
-      { name: 'C++', percent: 60 },
-      // { name: 'Power BI', percent: 75 },
+      { name: 'C++', percent: 60 }, 
     ],
   },
   {
@@ -27,19 +26,29 @@ const skillGroups = [
     ],
   },
   {
+    title: 'Machine Learning',
+    items: [
+      { name: 'SUPERVISIED LEARNING', percent: 90 },
+      { name: 'UNSUPERVISIED LEARNING', percent: 85 },
+      { name: 'GEN AI', percent: 75 },
+      { name: 'Large Language Model (LLM) ', percent: 70 },
+      { name: 'Natural Language Processing (NLP) ', percent: 65 },
+    ],
+  },
+  {
     title: 'Database Management',
     items: [
       { name: 'MySQL', percent: 75 },
-      { name: 'AWS S3', percent: 80 }
-      // { name: 'TensorFlow', percent: 70 },
-      // { name: 'PyTorch', percent: 65 },
-      // { name: 'XGBoost', percent: 80 },
+      { name: 'AWS S3', percent: 80 },
     ],
   },
   {
     title: 'Programming & Tools',
     items: [
       { name: 'Power Bi', percent: 85 },
+      { name: 'Make.com', percent: 80 },
+      { name: 'N8N', percent: 75 },
+      { name: 'D-ID', percent: 80 },
       { name: 'Git', percent: 85 },
       { name: 'Docker', percent: 80 },
       { name: 'API Creation', percent: 80 },
@@ -51,21 +60,10 @@ const skillGroups = [
     items: [
       { name: 'HTML', percent: 85 },
       { name: 'CSS', percent: 80 },
-      { name: 'Ui/UX', percent: 70 },
-      // { name: 'AWS S3', percent: 80 }
+      { name: 'Ui/UX', percent: 70 }, 
     ],
   },
-  {
-    title: 'Machine Learning',
-    items: [
-      { name: 'SUPERVISIED LEARNING', percent: 90 },
-      { name: 'UNSUPERVISIED LEARNING', percent: 85 },
-      { name: 'GEN AI', percent: 75 },
-      { name: 'Large Language Model (LLM) ', percent: 70 },
-      { name: 'Natural Language Processing (NLP) ', percent: 65 },
-      // { name: 'AWS S3', percent: 80 }
-    ],
-  },
+  
 ]
 
 export default function Skills() {
