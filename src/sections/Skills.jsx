@@ -62,8 +62,7 @@ const skillGroups = [
       { name: 'CSS', percent: 80 },
       { name: 'Ui/UX', percent: 70 }, 
     ],
-  },
-  
+  }, 
 ]
 
 export default function Skills() {
