@@ -131,7 +131,7 @@ export default function Hero({ profileImageUrl }) {
                   <div className="w-28 h-28 rounded-full bg-gradient-to-br from-sky-200 to-indigo-200 mx-auto mb-3" />
                 )}
                 <div className="font-bold text-lg text-white drop-shadow">Shankar Kumar</div>
-                <div className="text-sm text-sky-50 drop-shadow">ML Developer</div>
+                <div className="text-sm text-sky-50 drop-shadow">Machine Learning Developer</div>
               </div>
             </div>
           </motion.div>
