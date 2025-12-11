@@ -6,7 +6,7 @@ const skillGroups = [
   {
     title: 'Programming Languages',
     items: [
-      { name: 'Python', percent: 75 },
+      { name: 'Python', percent: 85 },
       { name: 'Java', percent: 70 },
       { name: 'C++', percent: 60 }, 
     ],
