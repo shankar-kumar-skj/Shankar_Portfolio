@@ -32,7 +32,7 @@ const skillGroups = [
       { name: 'UNSUPERVISIED LEARNING', percent: 85 },
       { name: 'GEN AI', percent: 75 },
       { name: 'Large Language Model (LLM) ', percent: 70 },
-      { name: 'Natural Language Processing (NLP) ', percent: 65 },
+      { name: 'Natural Language Processing (NLP) ', percent: 70 },
     ],
   },
   {
