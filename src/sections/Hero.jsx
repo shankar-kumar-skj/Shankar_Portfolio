@@ -35,7 +35,7 @@ export default function Hero({ profileImageUrl }) {
               Hi, I’m <span className="text-sky-600">Shankar Kumar</span>
             </h1>
             <p className="text-lg text-slate-700 mb-6">
-              Java Developer • Machine Learning Learner — I create efficient, scalable applications and explore intelligent systems.
+              Data Science Aspirant || ML Developer || AI & Analytics Explorer || LLM & Cloud Enthusiast
             </p>
 
             <div className="flex flex-wrap gap-3 items-center">
@@ -131,7 +131,7 @@ export default function Hero({ profileImageUrl }) {
                   <div className="w-28 h-28 rounded-full bg-gradient-to-br from-sky-200 to-indigo-200 mx-auto mb-3" />
                 )}
                 <div className="font-bold text-lg text-white drop-shadow">Shankar Kumar</div>
-                <div className="text-sm text-sky-50 drop-shadow">Java Developer</div>
+                <div className="text-sm text-sky-50 drop-shadow">ML Developer</div>
               </div>
             </div>
           </motion.div>
