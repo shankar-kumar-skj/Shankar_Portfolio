@@ -66,7 +66,7 @@ const skillGroups = [
 ]
 
 export default function Skills() {
-  const rows = [skillGroups.slice(0, 2), skillGroups.slice(2, 4)]
+  const rows = [skillGroups.slice(0, 2), skillGroups.slice(2, 4),skillGroups.slice(4, 6)]
 
   return (
     <section id="skills" className="py-16 px-4 md:px-8 bg-gray-50">
