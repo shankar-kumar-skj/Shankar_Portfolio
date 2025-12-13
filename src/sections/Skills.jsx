@@ -26,8 +26,7 @@ const skillGroups = [
       { name: 'Matplotlib', percent: 85 },
       { name: 'Seaborn', percent: 75 },
       { name: 'Scikit Learn', percent: 80 },
-      { name: 'TensorFlow', percent: 85 },
-      { name: 'Keras', percent: 80 },
+      { name: 'TensorFlow', percent: 85 }, 
       { name: 'Streamlit', percent: 85 },
       { name: 'Pydantic', percent: 80 },
     ],
@@ -40,6 +39,7 @@ const skillGroups = [
       { name: 'GEN AI', percent: 75 },
       { name: 'Large Language Model (LLM) ', percent: 70 },
       { name: 'Natural Language Processing (NLP) ', percent: 70 },
+      { name: 'Retrieval-Augmented Generation (RAG) ', percent: 70 },
     ],
   },
   {
