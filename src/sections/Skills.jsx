@@ -12,6 +12,13 @@ const skillGroups = [
     ],
   },
   {
+    title: 'Database Management',
+    items: [
+      { name: 'MySQL', percent: 75 },
+      { name: 'AWS S3', percent: 80 },
+    ],
+  },
+  {
     title: 'Python Libraries',
     items: [
       { name: 'Numpy', percent: 85 },
@@ -23,13 +30,6 @@ const skillGroups = [
       { name: 'Keras', percent: 80 },
       { name: 'Streamlit', percent: 85 },
       { name: 'Pydantic', percent: 80 },
-    ],
-  },
-  {
-    title: 'Database Management',
-    items: [
-      { name: 'MySQL', percent: 75 },
-      { name: 'AWS S3', percent: 80 },
     ],
   },
   {
