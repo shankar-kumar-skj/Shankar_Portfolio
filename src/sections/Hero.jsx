@@ -64,7 +64,7 @@ export default function Hero({ profileImageUrl }) {
                 hoverBg: 'hover:bg-gray-100',
                 border: 'border border-gray-400',
               }, {
-                href: "https://docs.google.com/document/d/1d19gleSkkLbeegRuooBTA6IuJ4ee9ADl/edit?usp=sharing&ouid=104864036914519094289&rtpof=true&sd=true",
+                href: "https://1drv.ms/w/c/ece14c90eca7849e/IQD7BsxCRRBORoOptVmN-gMiARFqsd3Mb-jh1GAOYsxc2WQ?e=htwjZ4",
                 label: "Resume",
                 icon: <FaDownload size={16} />,
                 bg: '',
