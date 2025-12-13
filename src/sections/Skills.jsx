@@ -26,6 +26,13 @@ const skillGroups = [
     ],
   },
   {
+    title: 'Database Management',
+    items: [
+      { name: 'MySQL', percent: 75 },
+      { name: 'AWS S3', percent: 80 },
+    ],
+  },
+  {
     title: 'Machine Learning',
     items: [
       { name: 'SUPERVISIED LEARNING', percent: 90 },
@@ -33,13 +40,6 @@ const skillGroups = [
       { name: 'GEN AI', percent: 75 },
       { name: 'Large Language Model (LLM) ', percent: 70 },
       { name: 'Natural Language Processing (NLP) ', percent: 70 },
-    ],
-  },
-  {
-    title: 'Database Management',
-    items: [
-      { name: 'MySQL', percent: 75 },
-      { name: 'AWS S3', percent: 80 },
     ],
   },
   {
